@@ -2,7 +2,7 @@
 
 Rancher是Kubernetes管理工具，它可以轻松部署新K8S集群，启动EKS、GKE和AKS集群，甚至导入现有的Kubernetes集群。
 
-[Rancher 2.0-CN](https://www.cnrancher.com/docs/rancher/v2.x/cn/overview/)
+[参考Rancher 2.0-CN](https://www.cnrancher.com/docs/rancher/v2.x/cn/overview/)
 
 
 ## 1.1 前提条件
